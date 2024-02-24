@@ -6,8 +6,8 @@ Generate swagger using:
  - swagger-jsdoc - Generate Swagger doc
 
 ## Setup and Running the Server
-```yarn install```
-```yarn all```
+- ```yarn install```
+- ```yarn all```
 
 ### Swagger Available on [localhost](http://localhost:8080/api-docs/#)
 In `alailabilities` section are 2 tabs: `Parameters` & `Callbacks`
